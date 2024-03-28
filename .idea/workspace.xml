@@ -1,18 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="52a53137-61f7-42d6-9a91-2a38ab8dfdf5" name="Changes" comment="" />
+    <list default="true" id="52a53137-61f7-42d6-9a91-2a38ab8dfdf5" name="Changes" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/LRUCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/D/Keyboard.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/D/Macbook.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/D/Mouse.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/LruCache.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/S/Invoice.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/S/InvoiceDAO.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/S/InvoicePrinter.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/S/InvoiceS.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/S/Marker.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Package Object" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="2eHDLvcELVCnlEvYGGEYHnLqhuW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="RunManager">
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Macbook">
+    <configuration name="Macbook" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="main.scala.D.Macbook" />
+      <module name="helloscala" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.scala.D.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="helloscala" />
@@ -22,6 +73,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Macbook" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -35,6 +87,29 @@
       <option name="presentableId" value="Default" />
       <updated>1711552561468</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1711552656991</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711552656991</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
 </project>
