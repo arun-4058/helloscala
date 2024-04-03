@@ -1,28 +1,147 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="52a53137-61f7-42d6-9a91-2a38ab8dfdf5" name="Changes" comment="" />
+    <list default="true" id="52a53137-61f7-42d6-9a91-2a38ab8dfdf5" name="Changes" comment="SOLID principles">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/AbstractFactoryPattern/Car.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/AbstractFactoryPattern/CarComponents.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/AbstractFactoryPattern/CarFactory.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Builder/App.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Builder/Car.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Builder/CarBuilder.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/DecoratorPattern/Coffee.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/DecoratorPattern/Main.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/DecoratorPattern/Pizza.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Factory/App.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Factory/Chef.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Factory/Noodle.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/FactoryKit/App.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/FactoryKit/Weapon.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/FactoryKit/WeaponFactoryKit.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/L/Main.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/L/Vehicle.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ObserverPattern/App.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ObserverPattern/Weather.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ObserverPattern/WeatherObserver.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ObserverPattern/WeatherType.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/StrategyDesignPattern/WithStrategy/DriveStrategy.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/StrategyDesignPattern/WithStrategy/Vehicle.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/StrategyDesignPattern/WithoutStrategy/Vehicle.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Package Object" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="2eHDLvcELVCnlEvYGGEYHnLqhuW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/arun.verma/arun4058/helloscala"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.main.scala.AbstractFactoryPattern.Main">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="main.scala.ObserverPattern.App" />
       <module name="helloscala" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.scala.ObserverPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Macbook" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="main.scala.D.Macbook" />
+      <module name="helloscala" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.scala.D.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.scala.AbstractFactoryPattern.Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="main.scala.AbstractFactoryPattern.Main" />
+      <module name="helloscala" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.scala.AbstractFactoryPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.scala.DecoratorPattern.Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="main.scala.DecoratorPattern.Main" />
+      <module name="helloscala" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.scala.DecoratorPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.scala.L.Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="main.scala.L.Main" />
+      <module name="helloscala" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.scala.L.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.main.scala.AbstractFactoryPattern.Main" />
+        <item itemvalue="Application.main.scala.DecoratorPattern.Main" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.main.scala.L.Main" />
+        <item itemvalue="Application.Macbook" />
       </list>
     </recent_temporary>
   </component>
@@ -35,6 +154,37 @@
       <option name="presentableId" value="Default" />
       <updated>1711552561468</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1711552656991</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711552656991</updated>
+    </task>
+    <task id="LOCAL-00002" summary="SOLID principles">
+      <created>1711609815840</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711609815840</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="SOLID principles" />
+    <option name="LAST_COMMIT_MESSAGE" value="SOLID principles" />
   </component>
 </project>
